@@ -1,0 +1,26 @@
+{
+  "name": "waxelman.com",
+  "version": "1.0.0",
+  "description": "Keith Waxelman for City Council",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {
+    "npm": "^5.7.1",
+    "php": "0.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Keith",
+    "Waxelman",
+    "City",
+    "Council",
+    "Minnetonka"
+  ],
+  "author": "The Cordray Company LLC",
+  "license": "ISC"
+}
